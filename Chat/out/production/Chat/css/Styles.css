@@ -1,0 +1,26 @@
+#textArea {
+-fx-font: 15px "serif";
+    -fx-padding: 5;
+    -fx-background-color: #c6c6c6;
+}
+
+#textField {
+-fx-font: 20px "serif";
+    -fx-padding: 3;
+    -fx-background-color: lightgray;
+    -fx-text-fill: black;
+}
+
+#btn1 {
+    -fx-font: 20px "serif";
+    -fx-padding: 3;
+    -fx-background-color: lightgray;
+    -fx-text-fill: black;
+}
+
+#btn1:hover {
+    -fx-font: 20px "serif";
+    -fx-padding: 3;
+    -fx-background-color: darkgrey;
+    -fx-text-fill: black;
+}
